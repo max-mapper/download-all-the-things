@@ -1,0 +1,6 @@
+{
+  "db": "http://localhost:5984/documentaries",
+  "subreddit": "http://www.reddit.com/r/Documentaries.json",
+  "concurrency": 5,
+  "output": "./videos"
+}
